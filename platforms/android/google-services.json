@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783751972755",
+    "firebase_url": "https://fioriclient-c1e30.firebaseio.com",
+    "project_id": "fioriclient-c1e30",
+    "storage_bucket": "fioriclient-c1e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783751972755:android:13d0249ed149286b",
+        "android_client_info": {
+          "package_name": "com.globalomnium.fiori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783751972755-smcsapku767lt05vaamatte3cieclm9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtktWZiTMfjU1bQVF_60Wrn6NF7xMrG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,131 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "com.globalomnium.fiori.xcallbackurl",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-privacyscreen": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "de.appplant.cordova.plugin.printer": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-apppreferences": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-attachmentviewer": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-cachemanager": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-calendar": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-cdsprovider": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-encryptedstorage": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-federationprovider": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-fioriclient": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-logger": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-multidex": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-push": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-settings": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-toolbar": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-usage": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-voicerecording": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-corelibs": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-i18n": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-authproxy": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-online": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-ui5": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    },
+    "kapsel-plugin-logon": {
+      "PACKAGE_NAME": "com.globalomnium.fiori"
+    }
+  }
+}
